@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   
+<string name="firstLabel">Enter Your Name:</string>
+    <string name="app_name">Nickname Nonsense Free</string>
+    <string name="DONE">Give Me My Nickname</string>
+    <string name="secondLabel">Your New Nickname Is :</string>
+    <string name="loadingText">While Your NickName Loads</string>
+    <string name="BlankNickname">new Nickname</string>
+    <string name="motto">Slimy Sasquatch Inc.</string>
+    <string name="email">Any ideas or concerns? Email us :</string>
+    <string name="info">service.slimysasquatch@yahoo.com</string>
+<color name="BLACK">#000000</color>
+<color name="YELLOW">#C8F526</color >
+<string name="music">Music</string>
+<string name="loadingnickname">Do Not Get Hypnotized</string>
+<string name="angryloading">PUT ARTWORK HERE !</string>
+<string name="caution">CAUTION:</string>
+<string name="tired">Tired of ads? Tired of Waiting to Try Again?</string>
+<string name="or">OR</string>
+<string name="secondtryme">" Click above to get our ad-free no waiting version"</string>
+<string name="again">Try Again In :</string>
+<string name="money">" for only 99 cents!"</string>
+<string name="more">*With Even More NickNames!!!*</string>
+
+</resources>
